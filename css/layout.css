@@ -360,7 +360,7 @@ body.royal_preloader {
 	width:86px;
 	height:16px;
 	top:32px;
-	background:url('../images/logo.png') no-repeat center center;
+	background:url('../images/portfolio/logo.png') no-repeat center center;
 	background-size:86px 16px;
 	-webkit-transition : all 0.3s ease-out;
 	-moz-transition : all 0.3s ease-out;
